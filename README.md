@@ -3,18 +3,18 @@ NLTK basic learning for beginners.
 # Natural Language  Processing (Python)
 
 ## Index
-* [Topics](https://github.com/sanjusci/nltk#topics)
-  * [Tokenizing](https://github.com/sanjusci/nltk#tokenizing)
-  * [Stopwords](https://github.com/sanjusci/nltk#stopwords)
-  * [How to run?](https://github.com/sanjusci/nltk#how-to-run)
+* [Topics](https://github.com/sanjusci/nltk-basic#topics)
+  * [Tokenizing](https://github.com/sanjusci/nltk-basic#tokenizing)
+  * [Stopwords](https://github.com/sanjusci/nltk-basic#stopwords)
+  * [How to run?](https://github.com/sanjusci/nltk-basic#how-to-run)
 
 ## Topics
 
 ### Tokenizing
-* [Words/Sentences Tokenizing](https://github.com/sanjusci/nltk/blob/master/tokenizing.py)
+* [Words/Sentences Tokenizing](https://github.com/sanjusci/nltk-basic/blob/master/tokenizing.py)
 
 ### Stopwords
-* [Stop Words](https://github.com/sanjusci/nltk/blob/master/stopwords.py)
+* [Stop Words](https://github.com/sanjusci/nltk-basic/blob/master/stopwords.py)
 
 ## How to run?
 1. Move to ```<project-dir>```, create virtual environment and then activate it as
