@@ -10,6 +10,6 @@ class Helper(object):
     def __init__(self, filename, *args, **kwargs):
         self.filename = filename
 
-    def read(self):
-        return pd.read_csv(self.filename)  # doctest: +SKIP
+    def read(self, sep=',', header='infer'):
+        return pd.read_csv(self.filename)
 
