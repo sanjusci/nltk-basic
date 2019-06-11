@@ -16,6 +16,15 @@ NLTK basic learning for beginners.
 ### Stopwords
 * [Stop Words](https://github.com/sanjusci/nltk-basic/blob/master/stopwords.py)
 
+### Stemming
+* [Stemming](https://github.com/sanjusci/nltk-basic/blob/master/stemming.py)
+
+### Chunking
+* [Chunking](https://github.com/sanjusci/nltk-basic/blob/master/chunking.py)
+
+### Chinking
+* [Chinking](https://github.com/sanjusci/nltk-basic/blob/master/chinking.py)
+
 ## How to run?
 1. Move to ```<project-dir>```, create virtual environment and then activate it as
 
