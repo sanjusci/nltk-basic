@@ -11,6 +11,7 @@ NLTK basic learning for beginners.
   * [Chinking](https://github.com/sanjusci/nltk-basic#chinking)
   * [NamedEntityRecognization](https://github.com/sanjusci/nltk-basic#namedentityrecognization)
   * [Lemmatization](https://github.com/sanjusci/nltk-basic#lemmatization)
+  * [Corpus](https://github.com/sanjusci/nltk-basic#corpus)
   * [How to run?](https://github.com/sanjusci/nltk-basic#how-to-run)
 
 ## Topics
@@ -35,6 +36,9 @@ NLTK basic learning for beginners.
 
 ### Lemmatization
 * [Lemmatization](https://github.com/sanjusci/nltk-basic/blob/master/lemmatization.py)
+
+### Corpus accessing documents via NLTK
+* [Corpus](https://github.com/sanjusci/nltk-basic/blob/master/corpus.py)
 
 ## How to run?
 1. Move to ```<project-dir>```, create virtual environment and then activate it as
