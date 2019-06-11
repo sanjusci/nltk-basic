@@ -6,6 +6,10 @@ NLTK basic learning for beginners.
 * [Topics](https://github.com/sanjusci/nltk-basic#topics)
   * [Tokenizing](https://github.com/sanjusci/nltk-basic#tokenizing)
   * [Stopwords](https://github.com/sanjusci/nltk-basic#stopwords)
+  * [Stemming](https://github.com/sanjusci/nltk-basic#stemming)
+  * [Chunking](https://github.com/sanjusci/nltk-basic#chunking)
+  * [Chinking](https://github.com/sanjusci/nltk-basic#chinking)
+  * [NamedEntityRecognization](https://github.com/sanjusci/nltk-basic#namedentityrecognization)
   * [How to run?](https://github.com/sanjusci/nltk-basic#how-to-run)
 
 ## Topics
@@ -24,6 +28,9 @@ NLTK basic learning for beginners.
 
 ### Chinking
 * [Chinking](https://github.com/sanjusci/nltk-basic/blob/master/chinking.py)
+
+### NamedEntityRecognization
+* [NamedEntityRecognization](https://github.com/sanjusci/nltk-basic/blob/master/ner.py)
 
 ## How to run?
 1. Move to ```<project-dir>```, create virtual environment and then activate it as
