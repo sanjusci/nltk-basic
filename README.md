@@ -13,6 +13,7 @@ NLTK basic learning for beginners.
   * [Lemmatization](https://github.com/sanjusci/nltk-basic#lemmatization)
   * [Corpus](https://github.com/sanjusci/nltk-basic#corpus)
   * [TextClassification](https://github.com/sanjusci/nltk-basic#TextClassification)
+  * [TextClassificationfeature](https://github.com/sanjusci/nltk-basic#TextClassificationfeature)
   * [How to run?](https://github.com/sanjusci/nltk-basic#how-to-run)
 
 ## Topics
@@ -43,6 +44,9 @@ NLTK basic learning for beginners.
 
 ### TextClassification via NLTK
 * [TextClassification](https://github.com/sanjusci/nltk-basic/blob/master/text_classification.py)
+
+### TextClassification via NLTK
+* [TextClassificationfeature](https://github.com/sanjusci/nltk-basic/blob/master/text_classification_features.py)
 
 ## How to run?
 1. Move to ```<project-dir>```, create virtual environment and then activate it as
